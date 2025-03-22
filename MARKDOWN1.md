@@ -59,7 +59,6 @@ El progreso del sprint fue monitoreado con el siguiente gráfico de burndown:
 ## 📄 Documentación Técnica
 
 - Se utilizó **LaTeX** para la generación de documentos formales.
-- Archivos `.tex` y PDFs disponibles en la carpeta `/documentacion/latex`.
 
 ---
 > Última actualización: `22 de marzo de 2025`
