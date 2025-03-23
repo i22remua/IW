@@ -59,6 +59,7 @@ El progreso del sprint fue monitoreado con el siguiente gráfico de burndown:
 ## 📄 Documentación Técnica
 
 - Se utilizó **LaTeX** para la generación de documentos formales.
+- (https://www.overleaf.com/project/67dc5d77e7392d0eaadef6b2)
 
 ---
 > Última actualización: `22 de marzo de 2025`
